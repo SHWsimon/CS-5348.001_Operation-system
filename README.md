@@ -1,5 +1,4 @@
-# CS-5348.001_Operation-system
-UTD_Dr. Michael Christiansen, 2017F
+# Operation-system-Multi_Thread_Project
 
 Project:
 1. Task Executor Library
